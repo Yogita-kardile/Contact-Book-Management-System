@@ -49,7 +49,7 @@ Contact-Book-Management-System/
 5. Enter the required contact details.
 6. Manage your contacts using Create, View, Update, and Delete operations.
 
-## 📋 Available Menu Options
+## Available Menu Options
 
 | Option | Operation      |
 | :----: | -------------- |
@@ -59,7 +59,7 @@ Contact-Book-Management-System/
 |    4   | Delete Contact |
 |    5   | Exit           |
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Add contact search functionality.
 - Add input validation for phone numbers and email addresses.
