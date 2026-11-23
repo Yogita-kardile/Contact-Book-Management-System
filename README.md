@@ -64,5 +64,3 @@ Contact-Book-Management-System/
 - Add contact search functionality.
 - Add input validation for phone numbers and email addresses.
 - Develop a graphical user interface (GUI).
-
-Email:kardileyogita70@gmail.com
